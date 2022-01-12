@@ -116,11 +116,9 @@ public class Client
 
         frame.setVisible(true);
 
-        Client client = new Client("10.16.13.86", 5000);
+        Client client = new Client("{IP address of server}", 5000);
 
 
     }
   }
-  //10.16.13.86
-  //10.16.12.146
-  //10.16.15.20
+  
